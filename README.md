@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Cybersecurity Student
 ---------------------
-<a href="https://www.github.com/simone0509" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Shurtug4l" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/simone0509?logo=github&style=for-the-badge&color=ffffff&labelColor=1e3a8a" /></a>
 ### Skills
 
