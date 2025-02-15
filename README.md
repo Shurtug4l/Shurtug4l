@@ -1,5 +1,14 @@
 # 💫 About Me:
-🎓 I hold a Master’s degree in Astrophysics & Cosmology from the University of Bologna, where I worked on my thesis titled: “Applications of Automatic Differentiation in Gravitational Lensing” using PyTorch and TensorFlow.<br><br>🔐 After my academic journey, I decided to shift my career towards Cybersecurity by completing a course at EPICODE, and now I’m pursuing opportunities as a Cybersecurity Specialist.<br><br>🧑‍💼 I am actively looking for jobs in the Cybersecurity field, particularly in areas like Penetration Testing and Security Operations Centers (SOC).<br><br>💻 I am proficient in programming languages like Python and C, skills I developed over years during my university and EPICODE experience.<br><br>🛠️ I have hands-on experience with various Pentesting tools such as:<br><br>	•	SQL<br>	•	Metasploit<br>	•	Nmap<br>	•	Burp Suite<br>	•	Wireshark<br>	•	Kali Linux, and more.<br><br>🌱 Currently, I am deepening my expertise in Cybersecurity and always eager to learn and explore new challenges in this fast-paced field.<br><br>💬 Ask me about: Pentesting, Python, SOC, and IT Security strategies.<br><br>⚡ Fun fact: I started in Astrophysics, but now I’m just as passionate about protecting the digital universe as I was studying the physical one!
+🎓 I hold a Master’s degree in Astrophysics & Cosmology from the University of Bologna, where I worked on my thesis titled: “Applications of Automatic Differentiation in Gravitational Lensing” using PyTorch and TensorFlow.<br><br>🔐 I am currently a **Data & AI Ethics Analyst** at **Deloitte**, specializing in **AI governance, risk management, and compliance** with key regulations such as the **EU AI Act, ISO 42001, and NIST AI RMF**. My work involves conducting **AI audits, risk assessments, and trustworthy AI evaluations** to ensure AI systems are **secure, transparent, and aligned with ethical and regulatory standards**.<br><br>💻 With a strong background in **cybersecurity**, I completed an advanced **Cybersecurity Specialist program at EPICODE**, where I gained expertise in **penetration testing, AI security, and security operations (SOC)**.<br><br>🛠️ My technical skills include:<br><br>  
+• **Programming:** Python, C, Bash.<br>  
+• **Cybersecurity:** AI security, penetration testing, risk assessment, compliance.<br>  
+• **Tools & Frameworks:** Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Kali Linux.<br><br>  
+
+🌱 I am constantly expanding my expertise in **AI security, ethical hacking, and regulatory frameworks**, bridging the gap between **AI ethics and cybersecurity** to support **trustworthy and responsible AI development**.<br><br>  
+
+💬 Ask me about: **AI Risk, AI Security, Penetration Testing, and AI Ethics**.<br><br>  
+
+⚡ **Fun fact:** I began my journey in astrophysics, exploring the mysteries of the universe—now I apply the same analytical mindset to safeguard the digital world!
 
 
 ## 🌐 Socials:
