@@ -1,8 +1,8 @@
 # 💫 About Me:
 🎓 I hold a Master’s degree in Astrophysics & Cosmology from the University of Bologna, where I worked on my thesis titled: “Applications of Automatic Differentiation in Gravitational Lensing” using PyTorch and TensorFlow.<br><br>🔐 I am currently a **Data & AI Ethics Analyst** at **Deloitte**, specializing in **AI governance, risk management, and compliance** with key regulations such as the **EU AI Act, ISO 42001, and NIST AI RMF**. My work involves conducting **AI audits, risk assessments, and trustworthy AI evaluations** to ensure AI systems are **secure, transparent, and aligned with ethical and regulatory standards**.<br><br>💻 With a strong background in **cybersecurity**, I completed an advanced **Cybersecurity Specialist program at EPICODE**, where I gained expertise in **penetration testing, AI security, and security operations (SOC)**.<br><br>🛠️ My technical skills include:<br><br>  
-• **Programming:** Python, C, Bash.<br>  
-• **Cybersecurity:** AI security, penetration testing, risk assessment, compliance.<br>  
-• **Tools & Frameworks:** Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Kali Linux.<br><br>  
+* **Programming:** Python, C, Bash.<br>
+* **Cybersecurity:** AI security, penetration testing, risk assessment, compliance.<br>
+* **Tools & Frameworks:** Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Kali Linux.<br><br>  
 
 🌱 I am constantly expanding my expertise in **AI security, ethical hacking, and regulatory frameworks**, bridging the gap between **AI ethics and cybersecurity** to support **trustworthy and responsible AI development**.<br><br>  
 
