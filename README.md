@@ -10,7 +10,7 @@ AI Risk Management | AI Governance & Compliance | Cybersecurity | Astrophysics B
 
 I operate at the intersection of AI risk management, governance, and cybersecurity — supporting organizations in building AI systems that are secure, auditable, and compliant with regulatory frameworks.
 
-Currently at **Deloitte Risk Advisory**, my work spans two core areas:
+Currently at **Deloitte Advisory**, my work spans two core areas:
 
 ### AI Ethics & Trustworthy AI
 
