@@ -27,7 +27,8 @@ $ whoami
    EDU         MSc Astrophysics & Cosmology, University of Bologna
    STACK       Python · PyTorch · LangChain · HuggingFace
                EU AI Act · ISO/IEC 42001 · NIST AI RMF · ISO 27001
-   NOW         AI Solutions Architect certification (ProfessionAI)
+   NOW         AI Solutions Architect master · ProfessionAI
+               ▶ current module: Agentic AI
 ────────────────────────────────────────────────────────────────────────────
 $ _
 ```
@@ -91,6 +92,7 @@ languages ───    Python · C · Bash · Lua · SQL (MySQL · MariaDB · Mo
 ```
 2024–2025   AI Solutions Architect · ProfessionAI                   (ongoing)
              └─ ML · LLMs · Agentic AI · Cloud · AI governance · product
+             └─ see project log below ↓
 
 2023        Cybersecurity Specialist · EPICODE
              └─ pentesting · AI security · SOC operations · threat analysis
@@ -99,6 +101,38 @@ languages ───    Python · C · Bash · Lua · SQL (MySQL · MariaDB · Mo
              └─ Thesis: Applications of Automatic Differentiation in
                 Gravitational Lensing (PyTorch · TensorFlow)
 ```
+
+---
+
+## `$ tail -f ~/professionai/master.log`
+
+**[`AI_solutions_architect_course`](https://github.com/Shurtug4l/AI_solutions_architect_course)** —
+hands-on projects for every module of the master program. Public repo,
+updated as I progress through the curriculum.
+
+```
+✓ done · ▶ in progress · ◌ planned
+────────────────────────────────────────────────────────────────────────────
+✓  Python Programming           project · warehouse order monitoring system
+✓  Machine Learning             project · classification of defective parts
+✓  Large Language Models        project · RAG for company knowledge base
+▶  Agentic AI                   project · multi-agent orchestration (WIP)
+◌  Business Case & AI PM        project · vision → deployment of an AI system
+◌  Cloud for AI                 project · multi-cloud AI infrastructure
+◌  AI Service Deployment        project · delivery time prediction in prod
+◌  Data Governance & KM         project · governance for a pharma company
+◌  Solution Design              project · scalable architecture for AI
+◌  AI Architecture Security     project · risk & vulnerability analysis
+◌  Governance, Ethics, Compliance  project · framework for a fintech
+────────────────────────────────────────────────────────────────────────────
+```
+
+Direct links to the completed work:
+
+- [`00_python_programming`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/00_python_programming) — warehouse & order monitoring system
+- [`01_machine_learning`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/01_machine_learning) — defective parts classifier
+- [`02_large_language_models`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/02_large_language_models) — RAG system for company knowledge
+- [`03_agentic_ai`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/03_agentic_ai) — multi-agent orchestration *(in progress)*
 
 ---
 
