@@ -1,12 +1,7 @@
 <h1 align="center">Simone La Porta</h1>
 <p align="center">
-  <em>Data &amp; AI Ethics Analyst</em> · Deloitte Advisory<br>
+  Analyst · Data &amp; AI Ethics @ Deloitte Advisory<br>
   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
-</p>
-
-<p align="center">
-  <strong><code>AI Governance</code> now · <code>AI Security</code> next</strong><br>
-  <sub>astrophysics → AI ethics → trustworthy &amp; secure AI</sub>
 </p>
 
 <p align="center">
@@ -20,12 +15,11 @@ $ whoami
 ────────────────────────────────────────────────────────────────────────────
   simone@deloitte ~
    LOCATION    Turin, Italy
-   OS          macOS · zsh · Neovim
    ROLE        Analyst · Data & AI Ethics @ Deloitte Advisory (Milan)
    CERTS       ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
    FOCUS       AI Governance · Agentic AI Risk · Cybersecurity
-   GOAL        deepen AI architecture today, AI security in the long run
-   EDU         MSc Astrophysics & Cosmology, University of Bologna (103/110)
+   INTERESTS   LLM red-teaming · agentic-AI threat modeling · ML supply chain
+   EDU         MSc Astrophysics & Cosmology, University of Bologna
    NOW         AI Solutions Architect master · ProfessionAI
                ▶ current module: Agentic AI
 ────────────────────────────────────────────────────────────────────────────
@@ -36,34 +30,16 @@ $ _
 
 ## `$ cat about.md`
 
-From astrophysics to AI governance. My day job is **AI risk management**
-and **trustworthy AI** for organizations subject to the EU AI Act, ISO/IEC
-42001, and NIST AI RMF. My background is scientific — MSc in Astrophysics &
-Cosmology, with a thesis on automatic differentiation for gravitational
-lensing — and my long-term direction is **AI security**: red-teaming LLMs
-and agentic systems, hardening AI architectures, threat modeling for
-ML pipelines.
-
-I co-authored an **AI Human Rights Impact Assessment** paper presented at
-**LSAI 2025**, and I'm currently expanding the AI architecture side of my
-skillset through the AI Solutions Architect master at ProfessionAI.
-
----
-
-## `$ cat trajectory.md`
-
-```
-        past                       present                   future
-   ───────────────────────────────────────────────────────────────────
-   ┌──────────────────┐      ┌──────────────────┐      ┌──────────────┐
-   │  Astrophysics    │      │  AI Governance   │      │ AI Security  │
-   │  ML for science  │  →   │  & AI Ethics     │  →   │  red-team +  │
-   │  (PyTorch, Pyro) │      │  (EU AI Act,     │      │  hardening   │
-   │  INAF/OAS        │      │   ISO 42001)     │      │  of agentic  │
-   │                  │      │  @ Deloitte      │      │  systems     │
-   └──────────────────┘      └──────────────────┘      └──────────────┘
-   2018–2024                 Dec 2024 – present        next 2–4 years
-```
+- **Day job.** AI risk assessment and trustworthy-AI implementation for
+  Deloitte clients (EU AI Act, ISO/IEC 42001, NIST AI RMF). Cyber side:
+  ISO 27701 assessments, policy drafting, awareness campaigns.
+- **Background.** MSc Astrophysics & Cosmology, University of Bologna —
+  thesis on automatic differentiation for gravitational lensing
+  (PyTorch / TensorFlow).
+- **Publication.** Co-author of an AI Human Rights Impact Assessment
+  paper, *LSAI 2025*.
+- **Currently studying.** AI Solutions Architect master at ProfessionAI —
+  on the Agentic AI module right now (see `master.log` below).
 
 ---
 
@@ -72,18 +48,18 @@ skillset through the AI Solutions Architect master at ProfessionAI.
 ```
 focus/
 ├── ai-governance/
-│   ├── risk-management            · tooling & agentic AI risk framework
+│   ├── risk-management            · tooling & agentic-AI risk framework
 │   ├── compliance                 · EU AI Act · ISO/IEC 42001 · NIST AI RMF
 │   ├── trustworthy-ai             · fairness · transparency · robustness
-│   └── human-rights-iA            · co-author, LSAI 2025 paper
+│   └── human-rights-iA            · LSAI 2025 paper
 │
 ├── cybersecurity/
 │   ├── policy-development         · drafting & reviewing (public + private)
 │   ├── assessments                · ISO 27701 · access audits · gap analyses
-│   ├── awareness                  · phishing campaigns · cookie consent
+│   ├── awareness                  · phishing campaigns · cookie consent (OneTrust)
 │   └── frameworks                 · ISO 27001 · NIST CSF · NIS2
 │
-└── ai-security/                   · the long-term direction
+└── ai-security/                   · research interest
     ├── llm-red-teaming            · prompt injection · jailbreaks
     ├── agentic-systems            · tool-use abuse · multi-agent failures
     ├── ml-pipeline-threats        · supply chain · model integrity
@@ -106,8 +82,8 @@ cybersecurity ─  Network    · Wireshark · TCPdump · pfSense · Cisco
                  Malware    · IDA Pro · OllyDbg · Splunk
                  Practice   · HackTheBox · TryHackMe
 
-cloud/mlops ──   Solution Architecture · CI/CD for ML · Containers
-                 Cloud AI services · Scalable AI Systems
+cloud/mlops ──   Solution architecture · CI/CD for ML · Containers
+                 Cloud AI services · Scalable AI systems
 
 standards ───    EU AI Act · ISO/IEC 42001 · NIST AI RMF
                  ISO 27001 · ISO 27701 · NIST CSF · NIS2
@@ -134,7 +110,6 @@ Nov 2022 – 2023   Research Intern · ML for Astrophysics
 
 2018 – present    STEM Tutor · Mathematics & Physics
                   Freelance + schools (Modena · Bologna)
-                   └─ high-school and university students
 ```
 
 ---
@@ -142,8 +117,7 @@ Nov 2022 – 2023   Research Intern · ML for Astrophysics
 ## `$ tail -f ~/professionai/master.log`
 
 **[`AI_solutions_architect_course`](https://github.com/Shurtug4l/AI_solutions_architect_course)** —
-hands-on projects for every module of the master program. Public repo,
-updated as I progress through the curriculum.
+hands-on projects per module. Public repo, updated as I progress.
 
 ```
 ✓ done · ▶ in progress · ◌ planned
@@ -157,10 +131,9 @@ updated as I progress through the curriculum.
 ◌  AI Service Deployment        project · delivery time prediction in prod
 ◌  Data Governance & KM         project · governance for a pharma company
 ◌  Solution Design              project · scalable architecture for AI
-◌  AI Architecture Security     project · risk & vulnerability analysis  ★
+◌  AI Architecture Security     project · risk & vulnerability analysis
 ◌  Governance, Ethics, Compliance  project · framework for a fintech
 ────────────────────────────────────────────────────────────────────────────
-                            ★ the module that bridges to my AI-security goal
 ```
 
 Direct links to the completed work:
@@ -175,21 +148,15 @@ Direct links to the completed work:
 ## `$ cat education.md`
 
 ```
-2025 – present   AI Solutions Architect (Master) · ProfessionAI         (ongoing)
-                  └─ ML · LLMs · Agentic AI · Cloud · Governance · Product
-                  └─ see master.log above ↑
-
-2024             Cybersecurity Specialist · EPICODE                  (May – Sep)
-                  └─ pentesting · SOC · threat detection · incident response
-
-2018 – 2024      MSc Astrophysics & Cosmology · University of Bologna   (103/110)
-                  └─ Thesis: Applications of Automatic Differentiation
-                              in Gravitational Lensing (PyTorch · TensorFlow)
-                  └─ Supervisors: Prof. L. Moscardini · Dr. M. Meneghetti
-
-2014 – 2018      BSc Astronomy · University of Bologna                   (95/110)
-                  └─ Thesis: Formazione delle Galassie
-                  └─ Supervisor: Prof. D. Dallacasa
+2025 – now        AI Solutions Architect (Master) · ProfessionAI
+2024              Cybersecurity Specialist · EPICODE
+2018 – 2024       MSc Astrophysics & Cosmology · University of Bologna
+                   Thesis: Applications of Automatic Differentiation
+                           in Gravitational Lensing (PyTorch · TensorFlow)
+                   Supervisors: Prof. L. Moscardini · Dr. M. Meneghetti
+2014 – 2018       BSc Astronomy · University of Bologna
+                   Thesis: Formazione delle Galassie
+                   Supervisor: Prof. D. Dallacasa
 ```
 
 ---
@@ -202,8 +169,6 @@ Direct links to the completed work:
 
 ## `$ ls ~/.dotfiles · tooling`
 
-The daily setup — repo is private; happy to share specifics on request.
-
 ```
 editor      Neovim 0.11        · lazy.nvim · LSP · Treesitter · Copilot
 shell       zsh                · Powerlevel10k · autosuggestions · syntax-hl
@@ -211,7 +176,7 @@ terminal    WezTerm / Ghostty  · Catppuccin Macchiato · JetBrainsMono NF
 search      fzf · ripgrep · zoxide · bat
 git         lazygit · gh CLI
 ai          Claude Code · GitHub Copilot · local LLMs via Ollama
-notes       Obsidian (personal AI/ML/security vault)
+notes       Obsidian
 runtime     Python (conda) · Lua · Go · C
 ```
 
