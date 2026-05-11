@@ -47,13 +47,20 @@ $ _
 
 ```
 focus/
-├── ai-governance/
+├── ai-engineering/                · building this skill (master + side work)
+│   ├── llm-applications           · LangChain · prompt pipelines · output parsers
+│   ├── rag-systems                · ChromaDB · BM25 hybrid retrieval · chunking
+│   ├── agentic-ai                 · multi-agent orchestration · tool use
+│   ├── ml-pipelines               · feature engineering · model selection
+│   └── solution-architecture      · cloud AI services · scalable deployment
+│
+├── ai-governance/                 · day job @ Deloitte
 │   ├── risk-management            · tooling & agentic-AI risk framework
 │   ├── compliance                 · EU AI Act · ISO/IEC 42001 · NIST AI RMF
 │   ├── trustworthy-ai             · fairness · transparency · robustness
 │   └── human-rights-iA            · LSAI 2025 paper
 │
-├── cybersecurity/
+├── cybersecurity/                 · day job @ Deloitte
 │   ├── policy-development         · drafting & reviewing (public + private)
 │   ├── assessments                · ISO 27701 · access audits · gap analyses
 │   ├── awareness                  · phishing campaigns · cookie consent (OneTrust)
@@ -71,24 +78,45 @@ focus/
 ## `$ stack --grouped`
 
 ```
-ai/ml ─────────  Python · PyTorch · TensorFlow · Keras · Pyro · Scikit-learn
-                 LangChain · HuggingFace · Agentic AI frameworks
-                 NumPy · Pandas · SciPy · Matplotlib · Plotly
+ml core ──────   scikit-learn · NumPy · Pandas · SciPy
+                 regression · classification · clustering · model selection
+                 cross-validation · feature engineering · pipelines
 
-languages ───    Python · C · Bash · Fortran · Lua · SQL (MySQL · MariaDB · MongoDB)
+deep learning    PyTorch · TensorFlow · Keras · Pyro (probabilistic)
+                 CNNs · MLPs · automatic differentiation
 
-cybersecurity ─  Network    · Wireshark · TCPdump · pfSense · Cisco
-                 Pentest    · Nmap · Metasploit · Burp Suite · SQLmap · Nessus
-                 Malware    · IDA Pro · OllyDbg · Splunk
-                 Practice   · HackTheBox · TryHackMe
+nlp ──────────   HuggingFace Transformers · sentence-transformers
+                 NLTK · Gensim (Word2Vec) · spaCy
+                 tokenization · embeddings · NER · text classification
 
-cloud/mlops ──   Solution architecture · CI/CD for ML · Containers
-                 Cloud AI services · Scalable AI systems
+llm / rag ────   LangChain (core · text-splitters · runnables · parsers)
+                 Ollama (local LLMs) · ChromaDB (vector store)
+                 BM25 (rank_bm25) · hybrid retrieval · prompt engineering
+                 chunking strategies · output parsing · RAG evaluation
 
-standards ───    EU AI Act · ISO/IEC 42001 · NIST AI RMF
+agentic ai ───   multi-agent orchestration · tool use · planner/executor
+                 (in study via the current master module)
+
+mlops / cloud    Solution architecture · CI/CD for ML · Containers (Docker)
+                 Cloud AI services (AWS · GCP · Azure) · model serving
+                 scalable AI systems · monitoring (in progress)
+
+viz ──────────   Matplotlib · Seaborn · Plotly
+
+data ─────────   SQL (MySQL · MariaDB) · MongoDB · CSV / JSON pipelines
+                 large-scale astro datasets (former research)
+
+languages ────   Python · Lua · C · Bash · Fortran · SQL
+
+standards ────   EU AI Act · ISO/IEC 42001 · NIST AI RMF
                  ISO 27001 · ISO 27701 · NIST CSF · NIS2
 
-systems ─────    Windows · Linux · macOS · virtualized environments
+cybersecurity    network    · Wireshark · TCPdump · pfSense
+                 pentest    · Nmap · Metasploit · Burp Suite · SQLmap · Nessus
+                 malware    · IDA Pro · OllyDbg · Splunk
+                 practice   · HackTheBox · TryHackMe
+
+systems ──────   Windows · Linux · macOS · virtualized environments
 ```
 
 ---
@@ -122,25 +150,38 @@ hands-on projects per module. Public repo, updated as I progress.
 ```
 ✓ done · ▶ in progress · ◌ planned
 ────────────────────────────────────────────────────────────────────────────
-✓  Python Programming           project · warehouse order monitoring system
-✓  Machine Learning             project · classification of defective parts
-✓  Large Language Models        project · RAG for company knowledge base
-▶  Agentic AI                   project · multi-agent orchestration (WIP)
-◌  Business Case & AI PM        project · vision → deployment of an AI system
-◌  Cloud for AI                 project · multi-cloud AI infrastructure
-◌  AI Service Deployment        project · delivery time prediction in prod
-◌  Data Governance & KM         project · governance for a pharma company
-◌  Solution Design              project · scalable architecture for AI
-◌  AI Architecture Security     project · risk & vulnerability analysis
-◌  Governance, Ethics, Compliance  project · framework for a fintech
+✓  Python Programming           warehouse order monitoring system
+                                [Python · stdlib · dataclasses · pathlib]
+
+✓  Machine Learning             defective-parts classification pipeline
+                                [scikit-learn · NumPy · Pandas · Matplotlib
+                                 · Seaborn · MLP · RF · SVM · KNN · PCA]
+
+✓  Large Language Models        RAG for company knowledge base
+                                [LangChain · Ollama · ChromaDB · BM25
+                                 · sentence-transformers · HF Transformers
+                                 · NLTK · Gensim · hybrid retrieval]
+
+▶  Agentic AI                   multi-agent orchestration   (in progress)
+                                [planner/executor agents · tool use
+                                 · agent frameworks]
+
+◌  Business Case & AI PM        vision → deployment of an AI system
+◌  Cloud for AI                 multi-cloud AI infrastructure (AWS · GCP · Azure)
+◌  AI Service Deployment        delivery-time prediction in production
+                                [Docker · CI/CD · model serving · monitoring]
+◌  Data Governance & KM         governance framework for a pharma company
+◌  Solution Design              scalable architecture for AI systems
+◌  AI Architecture Security     risk & vulnerability analysis of an AI system
+◌  Governance, Ethics, Compliance  framework for a fintech
 ────────────────────────────────────────────────────────────────────────────
 ```
 
 Direct links to the completed work:
 
-- [`00_python_programming`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/00_python_programming) — warehouse & order monitoring system
-- [`01_machine_learning`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/01_machine_learning) — defective parts classifier
-- [`02_large_language_models`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/02_large_language_models) — RAG system for company knowledge
+- [`00_python_programming`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/00_python_programming) — order monitoring system (pure Python)
+- [`01_machine_learning`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/01_machine_learning) — classification pipeline + 7 exercises (preprocessing, regression, regularization, classification, clustering, NNs, face recognition)
+- [`02_large_language_models`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/02_large_language_models) — hybrid RAG (vector + BM25) + 4 exercises (text analysis, NER with BERT, LangChain pipelines, chatbot)
 - [`03_agentic_ai`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/03_agentic_ai) — multi-agent orchestration *(in progress)*
 
 ---
