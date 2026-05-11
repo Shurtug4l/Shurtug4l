@@ -1,24 +1,31 @@
 <h1 align="center">Simone La Porta</h1>
 <p align="center">
   <em>Data &amp; AI Ethics Analyst</em> · Deloitte Advisory<br>
-  <code>AI Governance</code> · <code>Agentic AI Risk</code> · <code>Cybersecurity</code>
+  ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist
+</p>
+
+<p align="center">
+  <strong><code>AI Governance</code> now · <code>AI Security</code> next</strong><br>
+  <sub>astrophysics → AI ethics → trustworthy &amp; secure AI</sub>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/simonelaporta">LinkedIn</a> ·
-  <a href="https://github.com/Shurtug4l">GitHub</a>
+  <a href="https://github.com/Shurtug4l">GitHub</a> ·
+  <a href="mailto:slaporta94@gmail.com">Email</a>
 </p>
 
 ```bash
 $ whoami
 ────────────────────────────────────────────────────────────────────────────
   simone@deloitte ~
+   LOCATION    Turin, Italy
    OS          macOS · zsh · Neovim
-   ROLE        Data & AI Ethics Analyst @ Deloitte Advisory
+   ROLE        Analyst · Data & AI Ethics @ Deloitte Advisory (Milan)
+   CERTS       ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
    FOCUS       AI Governance · Agentic AI Risk · Cybersecurity
-   EDU         MSc Astrophysics & Cosmology, University of Bologna
-   STACK       Python · PyTorch · LangChain · HuggingFace
-               EU AI Act · ISO/IEC 42001 · NIST AI RMF · ISO 27001
+   GOAL        deepen AI architecture today, AI security in the long run
+   EDU         MSc Astrophysics & Cosmology, University of Bologna (103/110)
    NOW         AI Solutions Architect master · ProfessionAI
                ▶ current module: Agentic AI
 ────────────────────────────────────────────────────────────────────────────
@@ -29,12 +36,34 @@ $ _
 
 ## `$ cat about.md`
 
-I work at the intersection of **AI risk management**, **governance**, and
-**cybersecurity** — helping organizations build AI systems that are secure,
-auditable, and compliant with emerging regulatory frameworks.
+From astrophysics to AI governance. My day job is **AI risk management**
+and **trustworthy AI** for organizations subject to the EU AI Act, ISO/IEC
+42001, and NIST AI RMF. My background is scientific — MSc in Astrophysics &
+Cosmology, with a thesis on automatic differentiation for gravitational
+lensing — and my long-term direction is **AI security**: red-teaming LLMs
+and agentic systems, hardening AI architectures, threat modeling for
+ML pipelines.
 
-Astrophysics by training (auto-differentiation in gravitational lensing for
-my MSc thesis), governance by craft.
+I co-authored an **AI Human Rights Impact Assessment** paper presented at
+**LSAI 2025**, and I'm currently expanding the AI architecture side of my
+skillset through the AI Solutions Architect master at ProfessionAI.
+
+---
+
+## `$ cat trajectory.md`
+
+```
+        past                       present                   future
+   ───────────────────────────────────────────────────────────────────
+   ┌──────────────────┐      ┌──────────────────┐      ┌──────────────┐
+   │  Astrophysics    │      │  AI Governance   │      │ AI Security  │
+   │  ML for science  │  →   │  & AI Ethics     │  →   │  red-team +  │
+   │  (PyTorch, Pyro) │      │  (EU AI Act,     │      │  hardening   │
+   │  INAF/OAS        │      │   ISO 42001)     │      │  of agentic  │
+   │                  │      │  @ Deloitte      │      │  systems     │
+   └──────────────────┘      └──────────────────┘      └──────────────┘
+   2018–2024                 Dec 2024 – present        next 2–4 years
+```
 
 ---
 
@@ -42,17 +71,23 @@ my MSc thesis), governance by craft.
 
 ```
 focus/
-├── ai-ethics/
-│   ├── risk-identification         · assessment & mitigation for AI systems
-│   ├── agentic-ai-risk             · LLM agents, multi-agent, human-in-the-loop
-│   ├── compliance                  · EU AI Act · ISO/IEC 42001 · NIST AI RMF
-│   └── trustworthy-ai              · fairness · transparency · robustness
+├── ai-governance/
+│   ├── risk-management            · tooling & agentic AI risk framework
+│   ├── compliance                 · EU AI Act · ISO/IEC 42001 · NIST AI RMF
+│   ├── trustworthy-ai             · fairness · transparency · robustness
+│   └── human-rights-iA            · co-author, LSAI 2025 paper
 │
-└── cybersecurity/
-    ├── policy-development          · drafting & reviewing for private + public
-    ├── risk-assessment             · gap analyses · compliance evaluation
-    ├── frameworks                  · ISO 27001 · NIST CSF · NIS2
-    └── governance                  · structures & incident response
+├── cybersecurity/
+│   ├── policy-development         · drafting & reviewing (public + private)
+│   ├── assessments                · ISO 27701 · access audits · gap analyses
+│   ├── awareness                  · phishing campaigns · cookie consent
+│   └── frameworks                 · ISO 27001 · NIST CSF · NIS2
+│
+└── ai-security/                   · the long-term direction
+    ├── llm-red-teaming            · prompt injection · jailbreaks
+    ├── agentic-systems            · tool-use abuse · multi-agent failures
+    ├── ml-pipeline-threats        · supply chain · model integrity
+    └── hardening                  · defense-in-depth for AI architectures
 ```
 
 ---
@@ -60,38 +95,46 @@ focus/
 ## `$ stack --grouped`
 
 ```
-ai/ml ─────────  Python · PyTorch · TensorFlow · Keras · Scikit-learn
+ai/ml ─────────  Python · PyTorch · TensorFlow · Keras · Pyro · Scikit-learn
                  LangChain · HuggingFace · Agentic AI frameworks
                  NumPy · Pandas · SciPy · Matplotlib · Plotly
 
-cloud/mlops ──   Solution Architecture · CI/CD for ML · Containers
-                 Scalable AI Systems · Model Deployment
+languages ───    Python · C · Bash · Fortran · Lua · SQL (MySQL · MariaDB · MongoDB)
 
-security ────    Penetration Testing · Vulnerability Assessment
-                 Threat Modeling · SOC Operations
-                 Nmap · Metasploit · Burp Suite · Wireshark · Splunk · Kali
+cybersecurity ─  Network    · Wireshark · TCPdump · pfSense · Cisco
+                 Pentest    · Nmap · Metasploit · Burp Suite · SQLmap · Nessus
+                 Malware    · IDA Pro · OllyDbg · Splunk
+                 Practice   · HackTheBox · TryHackMe
+
+cloud/mlops ──   Solution Architecture · CI/CD for ML · Containers
+                 Cloud AI services · Scalable AI Systems
 
 standards ───    EU AI Act · ISO/IEC 42001 · NIST AI RMF
-                 ISO 27001 · NIST CSF · NIS2
+                 ISO 27001 · ISO 27701 · NIST CSF · NIS2
 
-languages ───    Python · C · Bash · Lua · SQL (MySQL · MariaDB · MongoDB)
+systems ─────    Windows · Linux · macOS · virtualized environments
 ```
 
 ---
 
-## `$ cat education.md`
+## `$ ls ~/work · experience`
 
 ```
-2024–2025   AI Solutions Architect · ProfessionAI                   (ongoing)
-             └─ ML · LLMs · Agentic AI · Cloud · AI governance · product
-             └─ see project log below ↓
+Dec 2024 – now    Analyst · Data & AI Ethics
+                  Deloitte Advisory · Milan
+                   ├─ AI risk management tooling & agentic-AI risk framework
+                   ├─ trustworthy-AI guidelines for international public sector
+                   ├─ ISO 27701 assessments · cyber policy · access audits
+                   └─ phishing campaigns · awareness · cookie consent (OneTrust)
 
-2023        Cybersecurity Specialist · EPICODE
-             └─ pentesting · AI security · SOC operations · threat analysis
+Nov 2022 – 2023   Research Intern · ML for Astrophysics
+                  INAF / OAS · Bologna
+                   ├─ ML models (PyTorch, TensorFlow) for gravitational lensing
+                   └─ deep learning to accelerate large-scale astro pipelines
 
-—           MSc Astrophysics & Cosmology · University of Bologna
-             └─ Thesis: Applications of Automatic Differentiation in
-                Gravitational Lensing (PyTorch · TensorFlow)
+2018 – present    STEM Tutor · Mathematics & Physics
+                  Freelance + schools (Modena · Bologna)
+                   └─ high-school and university students
 ```
 
 ---
@@ -114,9 +157,10 @@ updated as I progress through the curriculum.
 ◌  AI Service Deployment        project · delivery time prediction in prod
 ◌  Data Governance & KM         project · governance for a pharma company
 ◌  Solution Design              project · scalable architecture for AI
-◌  AI Architecture Security     project · risk & vulnerability analysis
+◌  AI Architecture Security     project · risk & vulnerability analysis  ★
 ◌  Governance, Ethics, Compliance  project · framework for a fintech
 ────────────────────────────────────────────────────────────────────────────
+                            ★ the module that bridges to my AI-security goal
 ```
 
 Direct links to the completed work:
@@ -128,10 +172,37 @@ Direct links to the completed work:
 
 ---
 
+## `$ cat education.md`
+
+```
+2025 – present   AI Solutions Architect (Master) · ProfessionAI         (ongoing)
+                  └─ ML · LLMs · Agentic AI · Cloud · Governance · Product
+                  └─ see master.log above ↑
+
+2024             Cybersecurity Specialist · EPICODE                  (May – Sep)
+                  └─ pentesting · SOC · threat detection · incident response
+
+2018 – 2024      MSc Astrophysics & Cosmology · University of Bologna   (103/110)
+                  └─ Thesis: Applications of Automatic Differentiation
+                              in Gravitational Lensing (PyTorch · TensorFlow)
+                  └─ Supervisors: Prof. L. Moscardini · Dr. M. Meneghetti
+
+2014 – 2018      BSc Astronomy · University of Bologna                   (95/110)
+                  └─ Thesis: Formazione delle Galassie
+                  └─ Supervisor: Prof. D. Dallacasa
+```
+
+---
+
+## `$ cat publications.md`
+
+- **AI Human Rights Impact Assessment** — co-authored, *LSAI 2025*.
+
+---
+
 ## `$ ls ~/.dotfiles · tooling`
 
-The daily setup — also [public on GitHub][dotfiles] if you want to peek
-(repo is private; happy to share specifics on request).
+The daily setup — repo is private; happy to share specifics on request.
 
 ```
 editor      Neovim 0.11        · lazy.nvim · LSP · Treesitter · Copilot
@@ -146,6 +217,16 @@ runtime     Python (conda) · Lua · Go · C
 
 ---
 
+## `$ langs`
+
+```
+italian   ████████████████  native
+english   ██████████████░░  C1
+spanish   ██████████████░░  C1
+```
+
+---
+
 ## `$ streak`
 
 <div align="center">
@@ -154,11 +235,7 @@ runtime     Python (conda) · Lua · Go · C
 
 </div>
 
----
-
 ```bash
 $ exit
 logout
 ```
-
-[dotfiles]: https://github.com/Shurtug4l/.dotfiles
