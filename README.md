@@ -1,21 +1,13 @@
-<div align="center">
+<h1 align="center">Simone La Porta</h1>
+<p align="center">
+  <em>Data &amp; AI Ethics Analyst</em> · Deloitte Advisory<br>
+  <code>AI Governance</code> · <code>Agentic AI Risk</code> · <code>Cybersecurity</code>
+</p>
 
-```
-╭──────────────────────────────────────────────────────────────────────────╮
-│                                                                          │
-│   ███████╗██╗███╗   ███╗ ██████╗ ███╗   ██╗███████╗                      │
-│   ██╔════╝██║████╗ ████║██╔═══██╗████╗  ██║██╔════╝                      │
-│   ███████╗██║██╔████╔██║██║   ██║██╔██╗ ██║█████╗                        │
-│   ╚════██║██║██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝                        │
-│   ███████║██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████╗                      │
-│   ╚══════╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝                      │
-│                                                                          │
-│         L  A    P  O  R  T  A   ·   github.com/Shurtug4l                 │
-│                                                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/simonelaporta">LinkedIn</a> ·
+  <a href="https://github.com/Shurtug4l">GitHub</a>
+</p>
 
 ```bash
 $ whoami
@@ -154,23 +146,15 @@ runtime     Python (conda) · Lua · Go · C
 
 ---
 
-## `$ stats --live`
+## `$ streak`
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shurtug4l&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_macchiato)](https://github.com/Shurtug4l)
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shurtug4l&hide_border=true&theme=catppuccin_macchiato)](https://github.com/Shurtug4l)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shurtug4l&layout=compact&hide_border=true&theme=catppuccin_macchiato)](https://github.com/Shurtug4l)
 
 </div>
 
 ---
-
-## `$ connect`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simonelaporta-1e66f5?style=flat-square&logo=linkedin&logoColor=white&labelColor=24273a)](https://linkedin.com/in/simonelaporta)
-[![GitHub](https://img.shields.io/badge/GitHub-Shurtug4l-c6a0f6?style=flat-square&logo=github&logoColor=white&labelColor=24273a)](https://github.com/Shurtug4l)
 
 ```bash
 $ exit
