@@ -173,7 +173,7 @@ hands-on projects per module. Public repo, updated as I progress.
 ◌  Data Governance & KM         governance framework for a pharma company
 ◌  Solution Design              scalable architecture for AI systems
 ◌  AI Architecture Security     risk & vulnerability analysis of an AI system
-◌  Governance, Ethics, Compliance  framework for a fintech
+◌  Governance & Compliance      AI governance framework for a fintech
 ────────────────────────────────────────────────────────────────────────────
 ```
 
