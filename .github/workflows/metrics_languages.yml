@@ -21,6 +21,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: Shurtug4l       # explicit user context, otherwise the
+                                # action queries github-actions[bot]
           filename: github-metrics-languages.svg
           base: ""             # disable default base content
           config_timezone: Europe/Rome
