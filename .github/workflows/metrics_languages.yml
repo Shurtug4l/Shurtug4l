@@ -1,0 +1,38 @@
+name: Languages metrics
+
+# Generates a daily SVG of most-used languages across public repos via
+# lowlighter/metrics and commits it back to the repo. Self-hosted via
+# GitHub Actions to avoid third-party uptime dependencies.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"      # daily at 06:00 UTC
+  workflow_dispatch:          # manual trigger
+
+permissions:
+  contents: write             # allow commit-back of the generated SVG
+
+jobs:
+  languages:
+    name: Generate languages SVG
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics-languages.svg
+          base: ""             # disable default base content
+          config_timezone: Europe/Rome
+          config_animations: yes
+          config_theme: tokyonight
+
+          # Languages plugin: most-used breakdown across all public repos.
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_ignored: >-
+            markdown, html, css, tex, dockerfile
+          plugin_languages_threshold: 1%

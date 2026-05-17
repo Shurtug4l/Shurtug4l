@@ -246,6 +246,10 @@ spanish   ██████████████░░  C1
 ## `$ stats`
 
 <p align="center">
+  <img src="github-metrics-languages.svg" alt="Most-used languages across public repos"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Shurtug4l">
     <img src="https://streak-stats.demolab.com?user=Shurtug4l&theme=catppuccin_macchiato&hide_border=true&date_format=j+M%5B+Y%5D" alt="GitHub streak"/>
   </a>
