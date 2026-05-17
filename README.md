@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Shurtug4l">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=C6A0F6&center=true&vCenter=true&width=620&height=40&lines=AI+Solutions+Architect;Cybersecurity+Specialist;LLMs+%C2%B7+Agentic+AI+%C2%B7+AI+Cybersecurity;Build+it.+Then+threat-model+it." alt="Rotating titles"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/simonelaporta">LinkedIn</a> ·
   <a href="https://github.com/Shurtug4l">GitHub</a> ·
   <a href="mailto:slaporta94@gmail.com">Email</a>
@@ -37,9 +43,11 @@ $ _
   thesis on automatic differentiation for gravitational lensing
   (PyTorch / TensorFlow).
 - **Publication.** Co-author of an AI Human Rights Impact Assessment
-  paper, *LSAI 2025*.
+  paper (*HH4AI*), *LSAI 2025*, Pisa.
 - **Currently studying.** AI Solutions Architect master at ProfessionAI —
   on the Agentic AI module right now (see `master.log` below).
+- **Off the keyboard.** Mountains as the center of gravity. Ski
+  mountaineering, alpinism, trail running.
 
 ---
 
@@ -71,73 +79,6 @@ focus/
     ├── agentic-systems            · tool-use abuse · multi-agent failures
     ├── ml-pipeline-threats        · supply chain · model integrity
     └── hardening                  · defense-in-depth for AI architectures
-```
-
----
-
-## `$ stack --grouped`
-
-```
-ml core ──────   scikit-learn · NumPy · Pandas · SciPy
-                 regression · classification · clustering · model selection
-                 cross-validation · feature engineering · pipelines
-
-deep learning    PyTorch · TensorFlow · Keras · Pyro (probabilistic)
-                 CNNs · MLPs · automatic differentiation
-
-nlp ──────────   HuggingFace Transformers · sentence-transformers
-                 NLTK · Gensim (Word2Vec) · spaCy
-                 tokenization · embeddings · NER · text classification
-
-llm / rag ────   LangChain (core · text-splitters · runnables · parsers)
-                 Ollama (local LLMs) · ChromaDB (vector store)
-                 BM25 (rank_bm25) · hybrid retrieval · prompt engineering
-                 chunking strategies · output parsing · RAG evaluation
-
-agentic ai ───   multi-agent orchestration · tool use · planner/executor
-                 (in study via the current master module)
-
-mlops / cloud    Solution architecture · CI/CD for ML · Containers (Docker)
-                 Cloud AI services (AWS · GCP · Azure) · model serving
-                 scalable AI systems · monitoring (in progress)
-
-viz ──────────   Matplotlib · Seaborn · Plotly
-
-data ─────────   SQL (MySQL · MariaDB) · MongoDB · CSV / JSON pipelines
-                 large-scale astro datasets (former research)
-
-languages ────   Python · Lua · C · Bash · Fortran · SQL
-
-standards ────   EU AI Act · ISO/IEC 42001 · NIST AI RMF
-                 ISO 27001 · ISO 27701 · NIST CSF · NIS2
-
-cybersecurity    network    · Wireshark · TCPdump · pfSense
-                 pentest    · Nmap · Metasploit · Burp Suite · SQLmap · Nessus
-                 malware    · IDA Pro · OllyDbg · Splunk
-                 practice   · HackTheBox · TryHackMe
-
-systems ──────   Windows · Linux · macOS · virtualized environments
-```
-
----
-
-## `$ ls ~/work · experience`
-
-```
-Dec 2024 – now    Analyst · Data & AI Ethics
-                  Deloitte Advisory · Milan
-                   ├─ AI risk management tooling & agentic-AI risk framework
-                   ├─ trustworthy-AI guidelines for international public sector
-                   ├─ ISO 27701 assessments · cyber policy · access audits
-                   └─ phishing campaigns · awareness · cookie consent (OneTrust)
-
-Nov 2022 – 2023   Research Intern · ML for Astrophysics
-                  INAF / OAS · Bologna
-                   ├─ ML models (PyTorch, TensorFlow) for gravitational lensing
-                   └─ deep learning to accelerate large-scale astro pipelines
-
-2018 – present    STEM Tutor · Mathematics & Physics
-                  Freelance + schools (Modena · Bologna)
 ```
 
 ---
@@ -186,10 +127,79 @@ Direct links to the completed work:
 
 ---
 
+## `$ stack --grouped`
+
+```
+ml core ──────   scikit-learn · NumPy · Pandas · SciPy
+                 regression · classification · clustering · model selection
+                 cross-validation · feature engineering · pipelines
+
+deep learning    PyTorch · TensorFlow · Keras · Pyro (probabilistic)
+                 CNNs · MLPs · automatic differentiation
+
+nlp ──────────   HuggingFace Transformers · sentence-transformers
+                 NLTK · Gensim (Word2Vec) · spaCy
+                 tokenization · embeddings · NER · text classification
+
+llm / rag ────   LangChain (core · text-splitters · runnables · parsers)
+                 Ollama (local LLMs) · ChromaDB (vector store)
+                 BM25 (rank_bm25) · hybrid retrieval · prompt engineering
+                 chunking strategies · output parsing · RAG evaluation
+
+agentic ai ───   LangChain (LCEL · runnables) · LangGraph (state graphs)
+                 multi-agent orchestration · tool use · HITL · retry/router
+                 patterns: ReAct · Plan-and-Execute · Reflexion
+                 structured output via Pydantic / JSON Schema
+
+mlops / cloud    Solution architecture · CI/CD for ML · Containers (Docker)
+                 Cloud AI services (AWS · GCP · Azure) · model serving
+                 scalable AI systems · monitoring (in progress)
+
+viz ──────────   Matplotlib · Seaborn · Plotly
+
+data ─────────   SQL (MySQL · MariaDB) · MongoDB · CSV / JSON pipelines
+                 large-scale astro datasets (former research)
+
+languages ────   Python · Lua · C · Bash · Fortran · SQL
+
+standards ────   EU AI Act · ISO/IEC 42001 · NIST AI RMF
+                 ISO 27001 · ISO 27701 · NIST CSF · NIS2
+
+cybersecurity    network    · Wireshark · TCPdump · pfSense
+                 pentest    · Nmap · Metasploit · Burp Suite · SQLmap · Nessus
+                 malware    · IDA Pro · OllyDbg · Splunk
+                 practice   · HackTheBox · TryHackMe
+
+systems ──────   Windows · Linux · macOS · virtualized environments
+```
+
+---
+
+## `$ ls ~/work · experience`
+
+```
+Dec 2024 – now    Analyst · Data & AI Ethics
+                  Deloitte Advisory · Milan
+                   ├─ AI risk management tooling & agentic-AI risk framework
+                   ├─ trustworthy-AI guidelines for international public sector
+                   ├─ ISO 27701 assessments · cyber policy · access audits
+                   └─ phishing campaigns · awareness · cookie consent (OneTrust)
+
+Nov 2022 – 2023   Research Intern · ML for Astrophysics
+                  INAF / OAS · Bologna
+                   ├─ ML models (PyTorch, TensorFlow) for gravitational lensing
+                   └─ deep learning to accelerate large-scale astro pipelines
+
+2018 – present    STEM Tutor · Mathematics & Physics
+                  Freelance + schools (Modena · Bologna)
+```
+
+---
+
 ## `$ cat education.md`
 
 ```
-2025 – now        AI Solutions Architect (Master) · ProfessionAI
+2026 – now        AI Solutions Architect (Master) · ProfessionAI
 2024              Cybersecurity Specialist · EPICODE
 2018 – 2024       MSc Astrophysics & Cosmology · University of Bologna
                    Thesis: Applications of Automatic Differentiation
@@ -204,7 +214,7 @@ Direct links to the completed work:
 
 ## `$ cat publications.md`
 
-- **AI Human Rights Impact Assessment** — co-authored, *LSAI 2025*.
+- **AI Human Rights Impact Assessment** — co-authored, *LSAI 2025*, Pisa.
 
 ---
 
@@ -218,7 +228,7 @@ search      fzf · ripgrep · zoxide · bat
 git         lazygit · gh CLI
 ai          Claude Code · GitHub Copilot · local LLMs via Ollama
 notes       Obsidian
-runtime     Python (conda) · Lua · Go · C
+runtime     Python (uv) · Lua · Go · C
 ```
 
 ---
@@ -233,13 +243,19 @@ spanish   ██████████████░░  C1
 
 ---
 
-## `$ streak`
+## `$ stats`
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Shurtug4l">
+    <img src="https://streak-stats.demolab.com?user=Shurtug4l&theme=catppuccin_macchiato&hide_border=true&date_format=j+M%5B+Y%5D" alt="GitHub streak"/>
+  </a>
+</p>
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shurtug4l&hide_border=true&theme=catppuccin_macchiato)](https://github.com/Shurtug4l)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shurtug4l&bg_color=24273A&color=CAD3F5&line=C6A0F6&point=F5BDE6&area=true&hide_border=true&custom_title=Contribution+activity" alt="Contribution activity"/>
+</p>
 
-</div>
+---
 
 ```bash
 $ exit
