@@ -42,7 +42,7 @@ $ _
 - **Background.** MSc Astrophysics & Cosmology, University of Bologna —
   thesis on automatic differentiation for gravitational lensing
   (PyTorch / TensorFlow).
-- **Publication.** Co-author of an AI Human Rights Impact Assessment
+- **Publication.** Co-author of an [AI Human Rights Impact Assessment](https://ceur-ws.org/Vol-4074/paper6-18.pdf)
   paper (*HH4AI*), *LSAI 2025*, Pisa.
 - **Currently studying.** AI Solutions Architect master at ProfessionAI —
   on the Agentic AI module right now (see `master.log` below).
@@ -214,7 +214,7 @@ Nov 2022 – 2023   Research Intern · ML for Astrophysics
 
 ## `$ cat publications.md`
 
-- **AI Human Rights Impact Assessment** — co-authored, *LSAI 2025*, Pisa.
+- **[AI Human Rights Impact Assessment](https://ceur-ws.org/Vol-4074/paper6-18.pdf)** — co-authored, *LSAI 2025*, Pisa.
 
 ---
 
