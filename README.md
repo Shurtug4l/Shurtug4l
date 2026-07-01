@@ -130,7 +130,7 @@ Direct links to the completed work:
 ## `$ cat ~/projects/sec-recon-agent`
 
 **[`sec-recon-agent`](https://github.com/Shurtug4l/sec-recon-agent)** —
-type-safe security-triage agent on Pydantic AI + a custom MCP server.
+type-safe LLM vulnerability-triage agent on Pydantic AI + a custom MCP server.
 Build it, then threat-model it: ten typed tools (NVD · OSV · CISA KEV ·
 FIRST EPSS · Exploit-DB · MITRE ATT&CK · SBOM · Nmap) ground every answer
 into a validated `TriageReport` with a deterministic SSVC verdict
@@ -139,7 +139,7 @@ into a validated `TriageReport` with a deterministic SSVC verdict
 ```
 stack    Pydantic AI · MCP (HTTP+SSE) · FastAPI · ChromaDB · Next.js 15
 secure   prompt-injection fencing · structured-output kill-switch · deterministic SSVC
-         host-locked tools · opt-in auth + rate-limit · tamper-evident audit
+         host-locked tools · opt-in auth + rate-limit · runaway-loop cap · tamper-evident audit
 govern   OWASP LLM Top 10 · MITRE ATLAS red-team battery · ISO 42001 · MCP self-audit
 measure  reproducible scorecard — resistance · retrieval MRR · cost/latency · calibration
 ```
