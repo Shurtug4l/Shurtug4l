@@ -133,13 +133,15 @@ Direct links to the completed work:
 type-safe security-triage agent on Pydantic AI + a custom MCP server.
 Build it, then threat-model it: ten typed tools (NVD · OSV · CISA KEV ·
 FIRST EPSS · Exploit-DB · MITRE ATT&CK · SBOM · Nmap) ground every answer
-into a validated `TriageReport`.
+into a validated `TriageReport` with a deterministic SSVC verdict
+(Act / Attend / Track* / Track) and per-feed coverage honesty.
 
 ```
 stack    Pydantic AI · MCP (HTTP+SSE) · FastAPI · ChromaDB · Next.js 15
-secure   prompt-injection fencing · structured-output kill-switch
+secure   prompt-injection fencing · structured-output kill-switch · deterministic SSVC
          host-locked tools · opt-in auth + rate-limit · tamper-evident audit
-govern   OWASP LLM Top 10 · MITRE ATLAS red-team battery · ISO 42001 mapping
+govern   OWASP LLM Top 10 · MITRE ATLAS red-team battery · ISO 42001 · MCP self-audit
+measure  reproducible scorecard — resistance · retrieval MRR · cost/latency · calibration
 ```
 
 ---
