@@ -136,6 +136,8 @@ FIRST EPSS · Exploit-DB · MITRE ATT&CK · SBOM · Nmap) ground every answer
 into a validated `TriageReport` with a deterministic SSVC verdict
 (Act / Attend / Track* / Track) and per-feed coverage honesty.
 
+**[Live demo](https://shurtug4l.github.io/sec-recon-agent/)**: keyless, replays real captured triages across the full SSVC ladder, with a [reproducible scorecard](https://shurtug4l.github.io/sec-recon-agent/scorecard). No key, no setup.
+
 ```
 stack    Pydantic AI · MCP (HTTP+SSE) · FastAPI · ChromaDB · Next.js 15
 secure   prompt-injection fencing · structured-output kill-switch · deterministic SSVC
