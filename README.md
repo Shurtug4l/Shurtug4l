@@ -27,7 +27,7 @@ $ whoami
    INTERESTS   LLM red-teaming · agentic-AI threat modeling · ML supply chain
    EDU         MSc Astrophysics & Cosmology, University of Bologna
    NOW         AI Solutions Architect master · ProfessionAI
-               ▶ current module: Agentic AI
+               ▶ 00-05 delivered · now on Deployment + Data Governance
 ────────────────────────────────────────────────────────────────────────────
 $ _
 ```
@@ -44,8 +44,9 @@ $ _
   (PyTorch / TensorFlow).
 - **Publication.** Co-author of an [AI Human Rights Impact Assessment](https://ceur-ws.org/Vol-4074/paper6-18.pdf)
   paper (*HH4AI*), *LSAI 2025*, Pisa.
-- **Currently studying.** AI Solutions Architect master at ProfessionAI —
-  on the Agentic AI module right now (see `master.log` below).
+- **Currently studying.** AI Solutions Architect master at ProfessionAI.
+  Past the halfway point: modules 00-05 delivered, now on Deployment and
+  Data Governance (see `master.log` below).
 - **Off the keyboard.** Mountains as the center of gravity. Ski
   mountaineering, alpinism, trail running.
 
@@ -103,27 +104,40 @@ hands-on projects per module. Public repo, updated as I progress.
                                  · sentence-transformers · HF Transformers
                                  · NLTK · Gensim · hybrid retrieval]
 
-▶  Agentic AI                   multi-agent orchestration   (in progress)
-                                [planner/executor agents · tool use
-                                 · agent frameworks]
+✓  Agentic AI                   two capstones: DigitServe + GreenThumb
+                                [n8n orchestration · LangChain ReAct · RAG
+                                 · LiteLLM · FastAPI · tool use · HITL]
 
-◌  Business Case & AI PM        vision → deployment of an AI system
-◌  Cloud for AI                 multi-cloud AI infrastructure (AWS · GCP · Azure)
-◌  AI Service Deployment        delivery-time prediction in production
-                                [Docker · CI/CD · model serving · monitoring]
-◌  Data Governance & KM         governance framework for a pharma company
+✓  Business Case & AI PM        OmniRetail AI governance platform
+                                [feasibility · roadmap · cost · python-docx]
+
+✓  Cloud for AI                 EnergoGrid hybrid multi-cloud infrastructure
+                                [AWS · GCP · Azure · architecture design]
+
+▶  AI Service Deployment        LogiFast delivery-time service (capstone pre-delivery)
+                                [Flask · gunicorn · scikit-learn · Docker
+                                 · CI/CD · readiness · MLOps design]
+
+▶  Data Governance & KM         9 study notes done, capstone next
+                                [DAMA-DMBOK · data quality · lifecycle
+                                 · knowledge graphs · RAG governance]
+
 ◌  Solution Design              scalable architecture for AI systems
 ◌  AI Architecture Security     risk & vulnerability analysis of an AI system
 ◌  Governance & Compliance      AI governance framework for a fintech
 ────────────────────────────────────────────────────────────────────────────
 ```
 
-Direct links to the completed work:
+Direct links to the work:
 
-- [`00_python_programming`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/00_python_programming) — order monitoring system (pure Python)
-- [`01_machine_learning`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/01_machine_learning) — classification pipeline + 7 exercises (preprocessing, regression, regularization, classification, clustering, NNs, face recognition)
-- [`02_large_language_models`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/02_large_language_models) — hybrid RAG (vector + BM25) + 4 exercises (text analysis, NER with BERT, LangChain pipelines, chatbot)
-- [`03_agentic_ai`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/03_agentic_ai) — multi-agent orchestration *(in progress)*
+- [`00_python_programming`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/00_python_programming) - order monitoring system (pure Python)
+- [`01_machine_learning`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/01_machine_learning) - classification pipeline + 7 exercises
+- [`02_large_language_models`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/02_large_language_models) - hybrid RAG (vector + BM25) + 4 exercises
+- [`03_agentic_ai`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/03_agentic_ai) - two capstones: DigitServe (n8n) + GreenThumb (ReAct + RAG)
+- [`04_business_case_AIPM`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/04_business_case_AIPM) - OmniRetail AI governance platform
+- [`05_AI_cloud_services`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/05_AI_cloud_services) - EnergoGrid hybrid multi-cloud infrastructure
+- [`06_AI_services_deployment`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/06_AI_services_deployment) - LogiFast delivery-time service (Flask, capstone pre-delivery)
+- [`07_data_governance_knowledge_management`](https://github.com/Shurtug4l/AI_solutions_architect_course/tree/master/07_data_governance_knowledge_management) - 9 study notes on data governance & KM
 
 ---
 
