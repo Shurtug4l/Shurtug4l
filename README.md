@@ -5,19 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=C6A0F6&center=true&vCenter=true&width=620&height=40&lines=AI+Solutions+Architect;Cybersecurity+Specialist;LLMs+%C2%B7+Agentic+AI+%C2%B7+AI+Cybersecurity;Build+it.+Then+threat-model+it." alt="Rotating titles"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/simonelaporta">LinkedIn</a> ·
-  <a href="mailto:slaporta94@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=C6A0F6&center=true&vCenter=true&width=620&height=40&lines=Agentic+AI+%C2%B7+LLMs+%C2%B7+AI+Security;AI+Solutions+Architect;Cybersecurity+Specialist;Build+it.+Then+threat-model+it." alt="Rotating titles"/>
 </p>
 
 ```bash
 $ whoami
 ────────────────────────────────────────────────────────────────────────
  ROLE    Analyst · Data & AI Ethics @ Deloitte Advisory (Milan)
- FOCUS   AI governance · agentic AI risk · cybersecurity
+ FOCUS   agentic AI development · AI risk & governance · cybersecurity
  CERTS   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
  NOW     AI Solutions Architect master @ ProfessionAI
@@ -27,11 +22,14 @@ $ whoami
 
 ## About
 
-- **Day job.** AI risk assessment and trustworthy-AI implementation for
-  Deloitte clients (EU AI Act, ISO/IEC 42001, NIST AI RMF); on the cyber
+- **Day job.** Agentic AI development at Deloitte: a risk-management
+  methodology and guardrail definition for agents and apps on an internal
+  AI use-case marketplace, and a multi-agent system (SAST + LLM) that
+  scans codebases to assess compliance, governance and risk of agentic
+  and multi-agent systems.
+- **Also at Deloitte.** AI risk assessment and trustworthy-AI
+  implementation (EU AI Act, ISO/IEC 42001, NIST AI RMF); on the cyber
   side, ISO 27701 assessments and security policy work.
-- **Building toward.** Production LLM and agentic AI systems, secure by
-  design: master projects and the side work featured below.
 - **Background.** MSc Astrophysics & Cosmology, University of Bologna;
   thesis on automatic differentiation for gravitational lensing
   (PyTorch / TensorFlow).
@@ -68,11 +66,11 @@ and microlensing, extended with deep-learning and LLM-assisted case studies.
 ## Stack
 
 ```
-llm / rag       LangChain · ChromaDB · hybrid retrieval (BM25 + vector) · RAG evaluation
 agentic         LangGraph · Pydantic AI · MCP · tool use · HITL patterns
+llm / rag       LangChain · ChromaDB · hybrid retrieval (BM25 + vector) · RAG evaluation
 core            Python · scikit-learn · PyTorch · FastAPI · Pydantic
 mlops / cloud   Docker · CI/CD · AWS · GCP · Azure
-ai security     OWASP LLM Top 10 · MITRE ATLAS · prompt-injection defense · threat modeling
+ai security     OWASP LLM Top 10 · MITRE ATLAS · prompt-injection defense · guardrails · threat modeling
 standards       EU AI Act · ISO/IEC 42001 · NIST AI RMF · ISO 27001
 ```
 
