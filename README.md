@@ -12,7 +12,9 @@
 $ whoami
 ────────────────────────────────────────────────────────────────────────
  ROLE    Analyst · Data & AI Ethics @ Deloitte Advisory (Milan)
- FOCUS   agentic AI development · AI risk & governance · cybersecurity
+ WORK    agentic AI development: GenAI platform guardrails ·
+         multi-agent codebase review · trustworthy AI · cybersecurity
+ GOAL    LLM and agentic systems, secure by design
  CERTS   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
  NOW     AI Solutions Architect master @ ProfessionAI
