@@ -22,17 +22,18 @@ $ whoami
 
 ## About
 
-- **Day job.** Agentic AI development at Deloitte: a risk-management
-  methodology and guardrail definition for agents and apps on an internal
-  AI use-case marketplace, and a multi-agent system (SAST + LLM) that
-  scans codebases to assess compliance, governance and risk of agentic
-  and multi-agent systems.
+- **Day job.** Agentic AI development at Deloitte: risk-management
+  methodology and guardrail definitions for the agents and apps on a
+  proprietary GenAI platform, and a multi-agent system that reviews
+  agentic codebases, combining static analysis with LLM-based evaluation
+  of governance, compliance and risk.
 - **Also at Deloitte.** AI risk assessment and trustworthy-AI
   implementation (EU AI Act, ISO/IEC 42001, NIST AI RMF); on the cyber
-  side, ISO 27701 assessments and security policy work.
-- **Background.** MSc Astrophysics & Cosmology, University of Bologna;
-  thesis on automatic differentiation for gravitational lensing
-  (PyTorch / TensorFlow).
+  side, risk assessments, security policy design and review, access
+  audits, awareness campaigns.
+- **Background.** Astrophysicist by education (MSc, University of
+  Bologna); came to AI through ML research on gravitational lensing,
+  with a thesis on automatic differentiation (PyTorch / TensorFlow).
 - **Publication.** Co-author of an [AI Human Rights Impact Assessment](https://ceur-ws.org/Vol-4074/paper6-18.pdf)
   paper (*HH4AI*), *LSAI 2025*, Pisa.
 - **Off the keyboard.** Ski mountaineering, alpinism, trail running.
@@ -66,12 +67,16 @@ and microlensing, extended with deep-learning and LLM-assisted case studies.
 ## Stack
 
 ```
-agentic         LangGraph · Pydantic AI · MCP · tool use · HITL patterns
-llm / rag       LangChain · ChromaDB · hybrid retrieval (BM25 + vector) · RAG evaluation
-core            Python · scikit-learn · PyTorch · FastAPI · Pydantic
-mlops / cloud   Docker · CI/CD · AWS · GCP · Azure
-ai security     OWASP LLM Top 10 · MITRE ATLAS · prompt-injection defense · guardrails · threat modeling
-standards       EU AI Act · ISO/IEC 42001 · NIST AI RMF · ISO 27001
+agentic          LangGraph · LangChain · Pydantic AI · MCP · n8n
+llm / rag        OpenAI / Azure / Anthropic APIs · Hugging Face Transformers
+                 sentence-transformers · LiteLLM · ChromaDB · FAISS · BM25 hybrid · Ollama
+engineering      Python · FastAPI · Flask · Docker · pytest · Git · GitHub Actions · Bash · SQL
+ai-assisted dev  Claude Code (daily driver) · GitHub Copilot · agentic coding workflows
+cloud / mlops    AWS SageMaker · Azure ML / OpenAI · Vertex AI (GCP)
+ml / data        PyTorch · TensorFlow · scikit-learn · pandas · NumPy
+ai security      OWASP LLM Top 10 · MITRE ATLAS · LLM red teaming · threat modeling
+governance       EU AI Act · ISO/IEC 42001 · NIST AI RMF
+vapt             Nmap · Metasploit · Burp Suite · SQLmap · Nessus · Wireshark · Splunk · Semgrep
 ```
 
 ---
