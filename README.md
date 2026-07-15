@@ -22,21 +22,22 @@ $ whoami
 
 ## About
 
-- **Day job.** Agentic AI development at Deloitte: risk-management
-  methodology and guardrail definitions for the agents and apps on a
-  proprietary GenAI platform, and a multi-agent system that reviews
-  agentic codebases, combining static analysis with LLM-based evaluation
-  of governance, compliance and risk.
-- **Also at Deloitte.** AI risk assessment and trustworthy-AI
-  implementation (EU AI Act, ISO/IEC 42001, NIST AI RMF); on the cyber
-  side, risk assessments, security policy design and review, access
-  audits, awareness campaigns.
-- **Background.** Astrophysicist by education (MSc, University of
-  Bologna); came to AI through ML research on gravitational lensing,
-  with a thesis on automatic differentiation (PyTorch / TensorFlow).
-- **Publication.** Co-author of an [AI Human Rights Impact Assessment](https://ceur-ws.org/Vol-4074/paper6-18.pdf)
-  paper (*HH4AI*), *LSAI 2025*, Pisa.
-- **Off the keyboard.** Ski mountaineering, alpinism, trail running.
+My work at Deloitte has been shifting from assessing AI systems to building
+them. Today I develop agentic AI solutions on a proprietary GenAI platform,
+where I designed the risk methodology and the guardrails applied to every
+agent and app it ships, and I co-develop a multi-agent system that reviews
+agentic codebases by combining static analysis with LLM-based evaluation of
+governance, compliance and risk. The rest of my time goes to trustworthy-AI
+implementation (EU AI Act, ISO/IEC 42001, NIST AI RMF) and cybersecurity:
+risk assessments, security policies, access audits, awareness campaigns.
+
+Astrophysicist by education (MSc, University of Bologna), I came to AI
+through ML research on gravitational lensing, with a thesis on automatic
+differentiation (PyTorch / TensorFlow). I co-authored
+[HH4AI](https://ceur-ws.org/Vol-4074/paper6-18.pdf), a methodological
+framework for AI Human Rights Impact Assessment under the EU AI Act
+(*LSAI 2025*, Pisa). Off the keyboard, the mountains: ski mountaineering,
+alpinism, trail running.
 
 ## Featured work
 
