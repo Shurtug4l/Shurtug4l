@@ -16,7 +16,7 @@ $ whoami
  CERTS   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
  NOW     AI Solutions Architect master @ ProfessionAI
-         00-05 delivered · 06-07 in progress
+         00-06 delivered · 07 in progress
 ────────────────────────────────────────────────────────────────────────
 ```
 
@@ -56,7 +56,7 @@ replays real captured triages across the full SSVC ladder, with a
 
 One hands-on project per master module: RAG for a company knowledge base,
 two agentic capstones, multi-cloud architecture, ML deployment. Modules
-00-05 delivered, 06-07 in progress; full progress log in the repo README.
+00-06 delivered, 07 in progress; full progress log in the repo README.
 
 ### [`lensing`](https://github.com/Shurtug4l/lensing)
 
