@@ -18,7 +18,7 @@ $ whoami
  CERTS   ISO/IEC 42001 Lead Auditor · Cybersecurity Specialist (EPICODE)
  EDU     MSc Astrophysics & Cosmology · University of Bologna
  NOW     AI Solutions Architect master @ ProfessionAI
-         00-07 delivered · 08-10 planned
+         00-08 delivered · 09-10 planned
 ────────────────────────────────────────────────────────────────────────
 ```
 
@@ -59,8 +59,9 @@ replays real captured triages across the full SSVC ladder, with a
 ### [`AI_solutions_architect_course`](https://github.com/Shurtug4l/AI_solutions_architect_course)
 
 One hands-on project per master module: RAG for a company knowledge base,
-two agentic capstones, multi-cloud architecture, ML deployment. Modules
-00-07 delivered, 08-10 planned; full progress log in the repo README.
+two agentic capstones, multi-cloud architecture, ML deployment, an
+edge-cloud video analytics design study. Modules 00-08 delivered, 09-10
+planned; full progress log in the repo README.
 
 ### [`lensing`](https://github.com/Shurtug4l/lensing)
 
